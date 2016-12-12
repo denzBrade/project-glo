@@ -1,6 +1,18 @@
+/**
+* @Author: Denzil Brade <dbrade>
+* @Date:   2016-12-06T16:27:27+00:00
+* @Last modified by:   dbrade
+* @Last modified time: 2016-12-12T15:42:28+00:00
+*/
+
+// import react deps
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+
+// import assets
+import logo from '../assets/logo.svg';
+
+// import styles
+import '../styles/App.css';
 
 class App extends Component {
   render() {
